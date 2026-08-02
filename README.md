@@ -141,3 +141,7 @@ pip install -r requirements.txt
 - GitHub: https://github.com/MonikaDewangan
 - LinkedIn: www.linkedin.com/in/monikadewangan
 
+---
+
+⭐ If you found this project useful, feel free to star the repository!
+
